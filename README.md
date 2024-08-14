@@ -18,7 +18,7 @@ apt install git 或 yum install git
 ```
 然后cd到欲安装目录，执行
 ```shell
-git clone https://github.com/crossfw/Air-Universe-DockerInstall
+git clone https://github.com/diorlee/Air-Universe-DockerInstall
 cd Air-Universe-DockerInstall
 ```
 
